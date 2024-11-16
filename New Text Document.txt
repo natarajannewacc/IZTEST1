@@ -1,6 +1,0 @@
-<html>
-  <head>
-    <title>Div Align Attribbute</title>
-  </head>
-  
-</html>
